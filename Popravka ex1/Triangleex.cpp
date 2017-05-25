@@ -1,5 +1,5 @@
 //============================================================================
-// Name        : Popravka.cpp
+// Name        : Triangleex.cpp
 // Author      : vasil
 // Version     :
 // Copyright   : Your copyright notice
